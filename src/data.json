@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "Mount Fuji",
+        "location": "Japan",
+        "googleMapsUrl": "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
+        "startDate": "12 Jan, 2021",
+        "endDate": "24 Jan, 2021",
+        "description": "Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists.",
+        "imageUrl": "https://images.unsplash.com/photo-1576675466969-38eeae4b41f6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+    },
+    {
+        "id": 2,
+        "title": "Machu Picchu",
+        "location": "Peru",
+        "googleMapsUrl": "https://goo.gl/maps/343EBCK21cE3NC7h8",
+        "startDate": "27 May, 2021",
+        "endDate": "8 Jun, 2021",
+        "description": "Machu Picchu is a 15th-century Inca citadel located in the Eastern Cordillera of southern Peru on a 2,430-meter mountain ridge.It is located in the Machupicchu District within Urubamba Province above the Sacred Valley, which is 80 kilometers northwest of Cusco.",
+        "imageUrl": "https://images.unsplash.com/photo-1526392060635-9d6019884377?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+        "id": 3,
+        "title": "Glacier National Park",
+        "location": "United States",
+        "googleMapsUrl": "https://goo.gl/maps/RNy88HEBhYzrW5KC6",
+        "startDate": "01 Oct, 2021",
+        "endDate": "18 Nov, 2021",
+        "description": "Glacier National Park is an American national park located in northwestern Montana, on the Canada–United States border, adjacent to the Canadian provinces of Alberta and British Columbia.",
+        "imageUrl": "https://images.unsplash.com/photo-1527489377706-5bf97e608852?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1259&q=80"
+    }
+]
