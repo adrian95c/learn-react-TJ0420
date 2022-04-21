@@ -15,6 +15,13 @@ Of course, I would travel there some day in future.
 ex : <img src={`../images/${props.item.coverImg}`} className="card--image" /> - passing JS into JSX
 ```
 
+```
+ex : <a ... target="_blank" rel="noopener noreferrer nofollow" ...>View on Google Maps</a>
+- noopener    : Ensure security which lets an attacker have partial access to the previous page.
+- noreferrer  : Prevent other pages from seeing that traffic came from origin link.
+- nofollow    : Avoid the influence on the search engine rankings of the destination URL.
+```
+
 # Screenshots
 <table class="tg">
 <thead>
@@ -26,7 +33,7 @@ ex : <img src={`../images/${props.item.coverImg}`} className="card--image" /> - 
 <tbody>
   <tr>
     <td class="tg-0lax"><img src="https://github.com/adrian95c/ss001-travel-journal/blob/main/screenshots/sample-task-screenshot.png?" alt="Sample-Task-Screenshot"></td>
-    <td class="tg-0lax"><br /><br /><img src="https://github.com/adrian95c/ss001-travel-journal/blob/main/screenshots/result-screenshot.png?" alt="Result-Screenshot"></td>
+    <td class="tg-0lax"><img src="https://github.com/adrian95c/ss001-travel-journal/blob/main/screenshots/result-screenshot.png?" alt="Result-Screenshot"></td>
   </tr>
 </tbody>
 </table>

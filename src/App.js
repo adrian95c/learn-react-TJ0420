@@ -16,11 +16,9 @@ function App() {
   }
 )
   return (
-    <div>
+    <div className="main-travel-container">
       <Navbar />
-      <div className="main-travel-container">     
-        {detail}
-      </div>
+      {detail}
     </div>
   );
 }
