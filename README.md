@@ -1,4 +1,4 @@
-# Learn React - Travel Journal 0421
+# Learn React - Travel Journal 0420
 
 This small project is my first coursework from React learning modules from Scrimba. No doubt it is quite challenging during the solving process, but I'm so grateful to have resourceful guidance and direction, and, I managed to complete it finally.
 
